@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", serif;
+}
+
+.homeMain {
+  background-image: url("./assets/homeBg.png");
+}
